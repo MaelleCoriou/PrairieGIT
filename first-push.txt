@@ -7,3 +7,4 @@ print("On essaie Pull !")
 =======
 Print ("Modification dans DEV")
 >>>>>>> DEV
+print("Voir les différences")
