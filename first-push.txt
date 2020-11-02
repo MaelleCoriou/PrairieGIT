@@ -1,5 +1,9 @@
 print("Hello World !")
 print("confinement coming soon...")
 print("Le lundi au soleil")
+<<<<<<< HEAD
 print("merge DEV")
 print("On essaie Pull !")
+=======
+Print ("Modification dans DEV")
+>>>>>>> DEV
