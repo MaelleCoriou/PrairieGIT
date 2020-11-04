@@ -5,3 +5,4 @@ print("merge DEV")
 print("On essaie Pull !")
 Print ("Modification dans DEV")
 print("Voir les différences")
+Suite corrigé du brief, push exercice 6
