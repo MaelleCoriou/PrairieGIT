@@ -1,3 +1,5 @@
 print("Pull")
+<<<<<<< HEAD
 Modification fichier pour Pull exo 6
-Modif
+Modif  
+>>>>>>> DEV3
